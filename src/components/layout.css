@@ -6,7 +6,6 @@ body, html {
   margin: 0;
   font-family: 'Open Sans', Helvetica, sans-serif;
 }
-
 .bgimg {
   /* Background image */
   background-image: url('../images/bg-coming-soon.jpeg');
@@ -26,21 +25,18 @@ body, html {
   font-size: 25px;
   width: 100%;
 }
-
 /* Position text in the top-left corner */
 .topleft {
   position: absolute;
   top: 0;
   left: 16px;
 }
-
 /* Position text in the bottom-left corner */
 .bottomleft {
   position: absolute;
   bottom: 0;
   left: 16px;
 }
-
 /* Position text in the middle */
 .middle {
   position: absolute;
@@ -52,13 +48,11 @@ body, html {
   padding: 0 20px;
   box-sizing: border-box;
 }
-
 /* Style the <hr> element */
 hr {
   margin: auto;
   width: 40%;
 }
-
 .bg-layout {
   width: 100%;
   background-color: rgba(0,0,0, 0.9);
@@ -66,7 +60,6 @@ hr {
   min-height: 100vh;
   height: 100%;
 }
-
 .h1 {
   color: #DDD;
   font-size: 48px;
